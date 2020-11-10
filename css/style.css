@@ -309,6 +309,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
 /*________________Preloader_______________ */
 
 .prealoader{ 
+    /* PRELOADER DISABLED
     position:fixed; 
     left:0px; 
     top:0px; 
@@ -319,6 +320,7 @@ input,textarea {font-family: 'Hind', sans-serif;display: block; font-size: 16px;
     background-position:center center; 
     background-repeat:no-repeat; 
     background-image:url(../images/icon/preloader.gif);
+    */
 }
 
 /* Update Mainmenu area Style */
